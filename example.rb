@@ -1,10 +1,5 @@
-def say_hello_five_times
-  phrase = "Hello"
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
-  puts phrase
+def greeting
+  puts "Fuck you"
 end
 
-say_hello_five_times
+greeting
