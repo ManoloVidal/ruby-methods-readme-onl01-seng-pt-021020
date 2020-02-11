@@ -6,3 +6,5 @@ def say_hello_five_times
   puts phrase
   puts phrase
 end
+
+say_hello_five_times
